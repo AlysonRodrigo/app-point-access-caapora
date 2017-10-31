@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">PointAccessPMCaapora</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="roteadores">Roteadores</string>
+    <string name="sair">Sair</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="configuracoes">Configurações</string>
+    <string name="fragment_route_fragment">Fragment Route Fragment</string>
+    <string name="fragment_route_detail_fragment">Fragment Route Detail Fragment</string>
+    <string name="nome">Nome</string>
+    <string name="usuario_roteador">Usuario roteador</string>
+    <string name="senha_do_roteador">Senha do roteador</string>
+    <string name="usu_rio_ppoe">Usuário ppoe</string>
+    <string name="senha_ppoe">Senha ppoe</string>
+    <string name="nome_da_wifi">Nome da wifi</string>
+    <string name="senha_wifi">Senha wifi</string>
+    <string name="salvar">SALVAR</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Senha</string>
+    <string name="action_sign_in_short">Entrar</string>
+    <string name="error_invalid_email">Email inválido</string>
+    <string name="error_invalid_password">A senha é invalida</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">Esse campo é obrigatório</string>
+    <string name="entrar">Entrar</string>
+</resources>
